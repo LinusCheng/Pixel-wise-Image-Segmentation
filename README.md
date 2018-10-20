@@ -10,4 +10,5 @@ We used the data from CamVid, the color codes are the colors in its ground truth
 After the training, the SegNet object will be saved by pickle. <br>
 To use the train SegNet to make new segmentation, run "Test_net.py" with your prepared images<br>
 
+![alt text](https://github.com/LinusCheng/Pixel-wise-Image-Segmentation/blob/master/Results.PNG)
 
